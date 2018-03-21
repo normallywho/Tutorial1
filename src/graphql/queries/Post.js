@@ -23,7 +23,7 @@ module.exports = {
       args: {
         subreddit: {
           type: GraphQLString,
-          description: 'Please enter subreddit name',
+          description: 'Please enter subreddit name'
         }
       },
       resolve(parent, args, context, info) {

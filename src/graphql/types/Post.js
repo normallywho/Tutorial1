@@ -5,7 +5,7 @@ const {
   GraphQLObjectType,
   GraphQLString,
   GraphQLID,
-  GraphQLInt,
+  GraphQLInt
 } = GraphQL;
 
 
@@ -18,10 +18,12 @@ const PostType = new GraphQL.GraphQLObjectType({
       type: GraphQLID,
       description: 'ID of the post'
     },
+
     title: {
       type: GraphQLString,
       description: 'Title of the post'
     },
+
     url: {
       type: GraphQLString,
       description: 'URL of the post'
@@ -36,10 +38,12 @@ const PostType = new GraphQL.GraphQLObjectType({
       type: GraphQLInt,
       description: 'Total number of Upvotes received for this post'
     },
+
     downs: {
       type: GraphQLString,
       description: 'Total number of Downvotes received for this post'
     },
+
     content: {
       type: GraphQLString,
       description: 'Markdown content of the post'

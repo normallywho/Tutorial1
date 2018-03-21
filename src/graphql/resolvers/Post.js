@@ -25,6 +25,6 @@ const PostsController = {
 
   }
 
-mmm}
+}
 
 module.exports = PostsController;
