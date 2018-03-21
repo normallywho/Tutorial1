@@ -1,0 +1,1820 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"stud",
+				"studentResults"
+			],
+			[
+				"studen",
+				"studentId"
+			],
+			[
+				"students",
+				"studentsAfterTransferOut"
+			],
+			[
+				"fetch",
+				"fetchStatusSummary"
+			],
+			[
+				"fetc",
+				"fetchStatusSummary"
+			],
+			[
+				"transfer",
+				"transferSucceeded"
+			],
+			[
+				"op",
+				"openModal"
+			],
+			[
+				"student",
+				"studentName"
+			],
+			[
+				"fet",
+				"fetching"
+			],
+			[
+				"norm",
+				"normalizeEnrollment"
+			],
+			[
+				"ed",
+				"educationPeriodCd"
+			],
+			[
+				"edu",
+				"education-period-cd"
+			],
+			[
+				"test",
+				"testDateConflict"
+			],
+			[
+				"next",
+				"nextSection"
+			],
+			[
+				"enroll",
+				"enrollmentId"
+			],
+			[
+				"S",
+				"StudentDetailsTotalCost"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"drop",
+				"droppedWithCost"
+			],
+			[
+				"Update",
+				"UpdateSSDMaterialsSuccess"
+			],
+			[
+				"get",
+				"getExamPrice"
+			],
+			[
+				"exam",
+				"examPriceKeys"
+			],
+			[
+				"edit",
+				"editMaterialsStyles"
+			],
+			[
+				"use",
+				"useDropdown"
+			],
+			[
+				"men",
+				"menuName"
+			],
+			[
+				"map",
+				"mapDispatchToProps"
+			],
+			[
+				"teacher",
+				"teacherNames"
+			],
+			[
+				"fee",
+				"feesStatusData"
+			],
+			[
+				"update",
+				"updateStudentEnrollment"
+			],
+			[
+				"handle",
+				"handleSubmit"
+			],
+			[
+				"array",
+				"arraysInArrays"
+			],
+			[
+				"objects",
+				"objectsInArrays"
+			],
+			[
+				"chang",
+				"changeOrderExists"
+			],
+			[
+				"change",
+				"changeHasCostImplications"
+			],
+			[
+				"enro",
+				"enrollmentId"
+			],
+			[
+				"STUDENT",
+				"STUDENT_DETAILS_FORM_FIELDS"
+			],
+			[
+				"updat",
+				"updatedSection"
+			],
+			[
+				"Join",
+				"JoinCodeButton"
+			],
+			[
+				"dro",
+				"droppedWithCost"
+			],
+			[
+				"moveTo",
+				"moveToSection"
+			],
+			[
+				"section",
+				"sectionExists"
+			],
+			[
+				"studentMove",
+				"studentMoveError"
+			],
+			[
+				"has",
+				"hasMultipleOptions"
+			],
+			[
+				"isPast",
+				"isPastOrderDeadline"
+			],
+			[
+				"move",
+				"moveFromSection"
+			],
+			[
+				"sectionChanged",
+				"sectionChangedToId"
+			],
+			[
+				"selec",
+				"selectedVal"
+			],
+			[
+				"mov",
+				"moveToSectionId"
+			],
+			[
+				"cl",
+				"shouldCloseModal"
+			],
+			[
+				"avail",
+				"availableSections"
+			],
+			[
+				"no",
+				"noSectionsAvailableModal"
+			],
+			[
+				"modal",
+				"modalCloseFocusElem"
+			],
+			[
+				"fetching",
+				"fetchingAvailableSections"
+			],
+			[
+				"chan",
+				"changingSection"
+			],
+			[
+				"def",
+				"definitionStyle"
+			],
+			[
+				"hand",
+				"handleSubmit"
+			],
+			[
+				"Mov",
+				"SelectSectionToMoveToForm"
+			],
+			[
+				"isPri",
+				"isPristine"
+			],
+			[
+				"updated",
+				"updatedSection"
+			],
+			[
+				"updatedSect",
+				"updatedSectionProps"
+			],
+			[
+				"testD",
+				"testDayType"
+			],
+			[
+				"getPro",
+				"getProposedCostEstimate"
+			],
+			[
+				"show",
+				"showUpdateTable"
+			],
+			[
+				"removeEx",
+				"removeExamWithCostImplications"
+			],
+			[
+				"setti",
+				"settingsEducationPeriod"
+			],
+			[
+				"se",
+				"settingsExamDecisions"
+			],
+			[
+				"sele",
+				"selectedOrgId"
+			],
+			[
+				"isT",
+				"isTakingExam"
+			],
+			[
+				"prop",
+				"proposedCosts"
+			],
+			[
+				"onCl",
+				"onCloseAction"
+			],
+			[
+				"enrolled",
+				"enrolledSection"
+			],
+			[
+				"dropp",
+				"dropOptionsFlags"
+			],
+			[
+				"C",
+				"CoordinatorDropStudentExamRemovedSuccess"
+			],
+			[
+				"un",
+				"unregisterExamWithCostImplication"
+			],
+			[
+				"Coord",
+				"CoordinatorDropStudentSuccess"
+			],
+			[
+				"Coordin",
+				"CoordinatorDropStudentIntro"
+			],
+			[
+				"intro",
+				"introComponent"
+			],
+			[
+				"TeacherDrop",
+				"TeacherDropStudentIntro"
+			],
+			[
+				"Teach",
+				"TeacherDropStudentSuccess"
+			],
+			[
+				"TeacherD",
+				"TeacherDropStudentIntro"
+			],
+			[
+				"unre",
+				"unregisterExamWithoutCostImplication"
+			],
+			[
+				"coordin",
+				"coordinatorPostDropMessage"
+			],
+			[
+				"remove",
+				"removeExam"
+			],
+			[
+				"keep",
+				"keepExam"
+			],
+			[
+				"STU",
+				"STUDENT_DROP_OPTIONS"
+			],
+			[
+				"ini",
+				"initialVal"
+			],
+			[
+				"initial",
+				"initialValues"
+			],
+			[
+				"Drop",
+				"DropStudentOptionsForm"
+			],
+			[
+				"teacherP",
+				"teacherPreDropMessage"
+			],
+			[
+				"coord",
+				"coordinatorPreDropMessage"
+			],
+			[
+				"coo",
+				"coordinatorPostDropMessage"
+			],
+			[
+				"isDi",
+				"isDisabled"
+			],
+			[
+				"checkDateRan",
+				"checkDateRangeMaxC"
+			],
+			[
+				"check",
+				"checkDateFormat"
+			],
+			[
+				"min",
+				"minDate"
+			],
+			[
+				"checkDate",
+				"checkDateRangeMax"
+			],
+			[
+				"checkDateR",
+				"checkDateRangeMax"
+			],
+			[
+				"checkD",
+				"checkDateRangeMin"
+			],
+			[
+				"is",
+				"isErrored"
+			],
+			[
+				"cer",
+				"certificationId"
+			],
+			[
+				"render",
+				"renderRemoveButton"
+			],
+			[
+				"can",
+				"canGrantTeacherAccess"
+			],
+			[
+				"Gran",
+				"grantedAccess"
+			],
+			[
+				"grant",
+				"grantedAccess"
+			],
+			[
+				"user",
+				"usernameField"
+			],
+			[
+				"reset",
+				"resetSearchForTeacher"
+			],
+			[
+				"margin",
+				"marginBottom"
+			],
+			[
+				"search",
+				"searchUsernameField"
+			],
+			[
+				"searc",
+				"searchUsernameField"
+			],
+			[
+				"selected",
+				"selectedCourseId"
+			],
+			[
+				"Course",
+				"CourseValidation"
+			],
+			[
+				"Grant",
+				"GrantAccessForm"
+			],
+			[
+				"org",
+				"orgCanGrantAccess"
+			],
+			[
+				"Access",
+				"AccessManagementPanel"
+			],
+			[
+				"ge",
+				"getServerErrorMessage"
+			],
+			[
+				"defaul",
+				"defaultDurationOut"
+			],
+			[
+				"ov",
+				"overrideTransitionStyles"
+			],
+			[
+				"over",
+				"overrideDefaultStyles"
+			],
+			[
+				"numb",
+				"numberOfSelected"
+			],
+			[
+				"app",
+				"applyStyles"
+			],
+			[
+				"add",
+				"addAnotherButton"
+			],
+			[
+				"en",
+				"enableTeacherConfirmation"
+			],
+			[
+				"teach",
+				"teacherConfirmation"
+			],
+			[
+				"enable",
+				"enableTeacherConfirmation"
+			],
+			[
+				"enabl",
+				"enableStudentDecisions"
+			],
+			[
+				"dur",
+				"durationOut"
+			],
+			[
+				"Chan",
+				"ChangesSavedNotification"
+			],
+			[
+				"CREATE",
+				"CREATE_FORM_NAME"
+			],
+			[
+				"creae",
+				"createCourse"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/app.js",
+			"settings":
+			{
+				"buffer_size": 463,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/graphql/types/Post.js",
+			"settings":
+			{
+				"buffer_size": 1013,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/graphql/queries/Post.js",
+			"settings":
+			{
+				"buffer_size": 707,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/graphql/resolvers/Post.js",
+			"settings":
+			{
+				"buffer_size": 600,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/graphql/schema.js",
+			"settings":
+			{
+				"buffer_size": 504,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "server.js",
+			"settings":
+			{
+				"buffer_size": 300,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lambda.js",
+			"settings":
+			{
+				"buffer_size": 257,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 320.0,
+		"last_filter": "package",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"sublime",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"monok",
+				"Monokai Pro: select theme"
+			],
+			[
+				"ht",
+				"HttpStatusCode: Http Status Code"
+			],
+			[
+				"sub",
+				"Preferences: SublimeLinter Key Bindings"
+			],
+			[
+				"status",
+				"HttpStatusCode: Http Status Code"
+			],
+			[
+				"set syntax: f",
+				"Set Syntax: FJSX15"
+			],
+			[
+				"show",
+				"SublimeLinter: Show Errors on Save"
+			],
+			[
+				"sublimelinter: lin",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"toggle",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"set syntax: fj",
+				"Set Syntax: FJSX15"
+			],
+			[
+				"set syntax: java",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"set syntax: jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"h",
+				"HttpStatusCode: Http Status Code"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"stat",
+				"HttpStatusCode: Http Status Code"
+			],
+			[
+				"resou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"htt",
+				"HttpStatusCode: Http Status Code"
+			],
+			[
+				"alignt",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"https",
+				"HttpStatusCode: Http Status Code"
+			],
+			[
+				"note",
+				"Notes: New…"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"align",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"set",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"jaon",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"not",
+				"Notes: Change Color…"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"HTT",
+				"HttpStatusCode: Http Status Code"
+			],
+			[
+				"packag",
+				"Package Control: Disable Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"packageres",
+				"Package Control: List Packages"
+			],
+			[
+				"packagere",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"max",
+				"Maximize/Unmaximize pane"
+			],
+			[
+				"key",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"http",
+				"HttpStatusCode: Http Status Code"
+			],
+			[
+				"build",
+				"Build: Cancel"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"tab",
+				"Goto Tab"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"todo",
+				"TodoReview: Project Files"
+			],
+			[
+				"who",
+				"WhoCalled: Run indexer"
+			],
+			[
+				"whocall",
+				"WhoCalled: Add/remove project folders"
+			],
+			[
+				"grunt",
+				"Grunt"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 346.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/dev/projects/Tutorial1",
+		"/C/dev/projects/Tutorial1/src",
+		"/C/dev/projects/Tutorial1/src/graphql"
+	],
+	"file_history":
+	[
+		"/C/dev/projects/apfym-web/src/assets/style/scss/students-table.scss",
+		"/C/dev/projects/apfym-web/src/components/students/coordinator/StudentSSDAccommodations.js",
+		"/C/dev/projects/apfym-web/src/components/common/forms/CheckboxGroup.js",
+		"/C/dev/projects/apfym-web/src/containers/modals/StudentTransferredOutModal.js",
+		"/C/dev/projects/apfym-web/src/components/common/Warning.js",
+		"/C/dev/projects/apfym-web/src/components/students/ssdmaterials/ExamMaterials.js",
+		"/C/dev/projects/apfym-web/src/components/common/forms/Validations.js",
+		"/C/dev/projects/apfym-web/src/actions/status.js",
+		"/C/Users/sambrown/AppData/Roaming/Sublime Text 3/Packages/Theme - Monokai Pro/Theme - Monokai Pro.sublime-settings",
+		"/C/Users/sambrown/AppData/Roaming/Sublime Text 3/Packages/User/Theme - Monokai Pro.sublime-settings",
+		"/C/dev/projects/apfym-web/src/components/common/index.js",
+		"/C/dev/projects/apfym-web/src/containers/forms/SelectSectionToMoveToForm.js",
+		"/C/dev/projects/apfym-web/src/containers/modals/ChangeSectionModal.js",
+		"/C/dev/projects/apfym-web/src/containers/modals/index.js",
+		"/C/dev/projects/apfym-web/src/components/students/student/ConfirmEnrollmentModal.js",
+		"/C/dev/projects/apfym-web/src/containers/forms/SelectSSDMaterialsToBeOrderedForm.js",
+		"/C/dev/projects/apfym-web/src/reducers/studentSSDMaterials.js",
+		"/C/dev/projects/apfym-web/src/assets/style/scss/student-details.scss",
+		"/C/dev/projects/apfym-web/src/containers/modals/DropStudentSuccessModal.js",
+		"/C/dev/projects/apfym-web/src/components/section/teacher/StudentEnrollmentRow.js",
+		"/C/dev/projects/apfym-web/src/components/orders/coordinator/UpdateTable.js",
+		"/C/dev/projects/apfym-web/src/containers/modals/DropStudentModal.js",
+		"/C/dev/projects/apfym-web/src/containers/forms/ExamDecisionsForm.js",
+		"/C/dev/projects/apfym-web/src/components/common/forms/Select.js",
+		"/C/dev/projects/apfym-web/src/actions/orders.js",
+		"/C/dev/projects/apfym-web/src/components/orders/coordinator/ProgramStatistics.js",
+		"/C/dev/projects/apfym-web/src/components/orders/coordinator/ProgramSummary.js",
+		"/C/dev/projects/apfym-web/src/components/orders/coordinator/ExamsTab.js",
+		"/C/dev/projects/apfym-web/src/reducers/students.js",
+		"/C/dev/projects/apfym-web/src/containers/modals/ConflictExamModal.js",
+		"/C/dev/projects/apfym-web/src/reducers/index.js",
+		"/C/dev/projects/apfym-web/src/containers/modals/UpdateOrderSuccessModal.js",
+		"/C/dev/projects/apfym-web/src/components/students/index.js",
+		"/C/dev/projects/apfym-web/src/reducers/studentSchoolAutoSuggest.js",
+		"/C/dev/projects/apfym-web/src/components/students/coordinator/StudentDetailsFeesStatus.js",
+		"/C/dev/projects/apfym-web/src/components/students/coordinator/StudentDetailsTestDate.js",
+		"/C/dev/projects/apfym-web/src/containers/modals/UpdateOrderModal.js",
+		"/C/dev/projects/apfym-web/src/components/orders/coordinator/UpdateChangeOrderModalText.js",
+		"/C/dev/projects/apfym-web/src/components/common/TestDateMenu.js",
+		"/C/dev/projects/apfym-web/src/containers/modals/SaveStudentDetailsSuccessModal.js",
+		"/C/dev/projects/apfym-web/src/components/students/common/DropStudentModalText.js",
+		"/C/dev/projects/apfym-web/src/components/courses/coordinator/CoordinatorCourseSectionRow.js",
+		"/C/Users/sambrown/Desktop/student-details.json",
+		"/C/dev/projects/apfym-web/src/components/common/Dropdown.js",
+		"/C/dev/projects/apfym-web/src/components/common/DropdownPortal.js",
+		"/C/dev/projects/apfym-web/src/components/common/HelpIcon.js",
+		"/C/dev/projects/apfym-web/src/components/common/TakingExamDecisionMenu.js",
+		"/C/dev/projects/apfym-web/src/containers/forms/CreateAndEditSectionForm.js",
+		"/C/dev/projects/apfym-web/src/containers/modals/ConfirmUnsavedChangesModal.js",
+		"/C/dev/projects/apfym-web/src/containers/forms/StudentDetailsForm.js",
+		"/C/dev/projects/apfym-web/src/containers/routes/index.js",
+		"/C/dev/projects/apfym-web/src/containers/modals/RegisterForExamModal.js",
+		"/C/dev/projects/apfym-web/src/containers/pages/StudentDetailsPage.js",
+		"/C/dev/projects/apfym-web/src/actions/settingsOrg.js",
+		"/C/dev/projects/apfym-web/src/components/App.js",
+		"/C/dev/projects/apfym-web/src/components/students/student/StudentEnrollmentRow.js",
+		"/C/dev/projects/apfym-web/src/reducers/settingsOrg.js",
+		"/C/dev/projects/apfym-web/src/components/setup/examadministration/index.js",
+		"/C/dev/projects/apfym-web/src/components/students/student/RegistrationBasicInfo.js",
+		"/C/dev/projects/apfym-web/src/containers/forms/StudentRegistrationForm.js",
+		"/C/dev/projects/apfym-web/src/assets/style/scss/table-utils.scss",
+		"/C/Users/sambrown/Desktop/enrollments-search.json",
+		"/C/dev/projects/apfym-web/package.json",
+		"/C/dev/projects/apfym-web/src/components/students/coordinator/StudentDetailsTakingExam.js",
+		"/C/dev/projects/apfym-web/src/components/students/ssdmaterials/OtherAccommodations.js",
+		"/C/dev/projects/apfym-web/src/components/students/ssdmaterials/ExtraTime.js",
+		"/C/dev/projects/apfym-web/src/components/students/ssdmaterials/ReaderMaterials.js",
+		"/C/dev/projects/apfym-web/src/components/students/coordinator/StudentDetailsSSDMaterials.js",
+		"/C/dev/projects/apfym-web/src/components/common/forms/Text.js",
+		"/C/dev/projects/apfym-web/.eslintrc",
+		"/C/dev/projects/apfym-web/src/containers/forms/DropStudentOptionsForm.js",
+		"/C/dev/projects/apfym-web/src/reducers/app.js",
+		"/C/dev/projects/apfym-web/src/actions/app.js",
+		"/C/dev/projects/apfym-web/src/reducers/studentDrop.js",
+		"/C/dev/projects/apfym-web/src/containers/modals/ChangeSectionSuccessModal.js",
+		"/C/dev/projects/apfym-web/src/components/section/teacher/CourseSectionSelector.js",
+		"/C/dev/projects/apfym-web/src/containers/pages/SetupPage.js",
+		"/C/dev/projects/apfym-web/src/assets/style/css/global.css",
+		"/C/dev/projects/apfym-web/src/containers/modals/GrantTeacherAccessModal.js",
+		"/C/dev/projects/apfym-web/src/containers/forms/FindTeacherForm.js",
+		"/C/dev/projects/apfym-web/src/components/dashboard/StudentDashboard.js",
+		"/C/dev/projects/apfym-web/src/components/students/student/JoinCodeButton.js",
+		"/C/dev/projects/apfym-web/src/components/students/student/JoinCodeLink.js",
+		"/C/dev/projects/apfym-web/src/assets/style/scss/student-dashboard.scss",
+		"/C/dev/projects/apfym-web/src/components/students/coordinator/CoordinatorStudents.js",
+		"/C/Users/sambrown/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/dev/projects/apfym-web/src/components/common/Modal.js",
+		"/C/dev/projects/apfym-web/src/utils/authWrappers.js",
+		"/C/dev/projects/apfym-web/src/assets/style/scss/courses-table.scss",
+		"/C/dev/projects/apfym-web/src/components/courses/teacher/TeacherCourseRow.js",
+		"/C/dev/projects/apfym-web/src/containers/pages/ViewSectionJoinCode.js",
+		"/C/dev/projects/apfym-web/src/actions/settingsGlobal.js",
+		"/C/dev/projects/apfym-web/src/reducers/settingsGlobal.js",
+		"/C/dev/projects/apfym-web/src/reducers/studentMove.js",
+		"/C/dev/projects/apfym-web/src/components/common/forms/Autosuggest.js",
+		"/C/dev/projects/apfym-web/src/components/section/createandedit/CourseSchedule.js",
+		"/C/dev/projects/apfym-web/src/components/students/coordinator/StudentDetailsSection.js",
+		"/C/dev/projects/apfym-web/webpack.config.production.js",
+		"/C/dev/projects/apfym-web/webpack.config.js",
+		"/C/dev/projects/apfym-web/.babelrc",
+		"/C/dev/projects/apfym-web/src/reducers/teacherRevokeAccess.js",
+		"/C/dev/projects/apfym-web/src/reducers/teacherGrantAccess.js",
+		"/C/dev/projects/apfym-web/src/reducers/teachersGrantedAccess.js",
+		"/C/dev/projects/apfym-web/src/reducers/teacherSearch.js",
+		"/C/dev/projects/apfym-web/src/reducers/teacher.js",
+		"/C/dev/projects/apfym-web/src/containers/pages/SettingsPage.js",
+		"/C/dev/projects/apfym-web/src/actions/teacher.js",
+		"/C/dev/projects/apfym-web/src/components/settings/accessmanagement/AccessManagementPanel.js",
+		"/C/dev/projects/apfym-web/src/utils/normalize.js",
+		"/C/dev/projects/apfym-web/src/components/navigation/SelectSchool.js",
+		"/C/dev/projects/apfym-web/src/containers/modals/ConfirmDropStudentModal.js",
+		"/C/dev/projects/apfym-web/src/utils/common.js",
+		"/C/dev/projects/apfym-web/src/components/settings/examdecisions/ExamDecisionsPanel.js",
+		"/C/dev/projects/apfym-web/src/components/common/forms/Date.js",
+		"/C/dev/projects/apfym-web/src/components/common/FetchByOrgId.js",
+		"/C/dev/projects/apfym-web/src/reducers/user.js",
+		"/C/dev/projects/apfym-web/src/actions/user.js",
+		"/C/dev/projects/apfym-web/src/containers/pages/StudentsPage.js",
+		"/C/dev/projects/apfym-web/src/containers/forms/StudentLabelSortByForm.js",
+		"/C/dev/projects/apfym-web/src/components/common/SortableTableHeader.js",
+		"/C/dev/projects/apfym-web/src/components/common/ChangesSavedNotification.js",
+		"/C/dev/projects/apfym-web/src/components/students/SelectLateReasons.js",
+		"/C/dev/projects/apfym-web/src/actions/enrollment.js",
+		"/C/dev/projects/apfym-web/src/constants/NavConstants.js",
+		"/C/dev/projects/apfym-web/src/components/settings/accessmanagement/GrantedAccessTableRow.js",
+		"/C/dev/projects/apfym-web/src/components/settings/accessmanagement/GrantedAccessTable.js",
+		"/C/dev/projects/apfym-web/src/containers/modals/RevokeTeacherAccessConfirmModal.js",
+		"/C/dev/projects/apfym-web/src/containers/modals/ConfirmExamDecisionModal.js"
+	],
+	"find":
+	{
+		"height": 52.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 463,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								246,
+								246
+							]
+						],
+						"settings":
+						{
+							"SL.111.region_keys":
+							[
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Naomi/syntaxes/naomi.fjsx15.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/graphql/types/Post.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1013,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								875,
+								875
+							]
+						],
+						"settings":
+						{
+							"SL.112.region_keys":
+							[
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Naomi/syntaxes/naomi.fjsx15.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/graphql/queries/Post.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 707,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								580,
+								580
+							]
+						],
+						"settings":
+						{
+							"SL.113.region_keys":
+							[
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Naomi/syntaxes/naomi.fjsx15.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/graphql/resolvers/Post.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 600,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								564,
+								564
+							]
+						],
+						"settings":
+						{
+							"SL.114.region_keys":
+							[
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Naomi/syntaxes/naomi.fjsx15.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/graphql/schema.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 504,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								413,
+								413
+							]
+						],
+						"settings":
+						{
+							"SL.117.region_keys":
+							[
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Naomi/syntaxes/naomi.fjsx15.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 300,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								300,
+								300
+							]
+						],
+						"settings":
+						{
+							"SL.115.region_keys":
+							[
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Naomi/syntaxes/naomi.fjsx15.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "lambda.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								257,
+								257
+							]
+						],
+						"settings":
+						{
+							"SL.116.region_keys":
+							[
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Naomi/syntaxes/naomi.fjsx15.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 416.0
+	},
+	"output.exec":
+	{
+		"height": 444.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.jotter":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "Packages/User/apfym-test.sublime-build",
+	"project": "Tutorial1.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"changesection",
+				"src\\containers\\modals\\ChangeSectionModal.js"
+			],
+			[
+				"students-t",
+				"src\\assets\\style\\scss\\students-table.scss"
+			],
+			[
+				"feesta",
+				"src\\components\\common\\FeesStatusMenu.js"
+			],
+			[
+				"selectssd",
+				"src\\containers\\forms\\SelectSSDMaterialsToBeOrderedForm.js"
+			],
+			[
+				"validat",
+				"src\\components\\common\\forms\\Validations.js"
+			],
+			[
+				"exammater",
+				"src\\components\\students\\ssdmaterials\\ExamMaterials.js"
+			],
+			[
+				"studentcon",
+				"src\\constants\\StudentConstants.js"
+			],
+			[
+				"studentssd",
+				"src\\reducers\\studentSSDMaterials.js"
+			],
+			[
+				"course",
+				"src\\selectors\\course.js"
+			],
+			[
+				"status",
+				"src\\actions\\status.js"
+			],
+			[
+				"changesect",
+				"src\\containers\\modals\\ChangeSectionModal.js"
+			],
+			[
+				"students",
+				"src\\reducers\\students.js"
+			],
+			[
+				"student-det",
+				"src\\assets\\style\\scss\\student-details.scss"
+			],
+			[
+				"updateorder",
+				"src\\containers\\modals\\UpdateOrderModal.js"
+			],
+			[
+				"changeord",
+				"src\\components\\orders\\coordinator\\UpdateChangeOrderModalText.js"
+			],
+			[
+				"update",
+				"src\\components\\orders\\coordinator\\UpdateTable.js"
+			],
+			[
+				"confirmunsa",
+				"src\\containers\\modals\\ConfirmUnsavedChangesModal.js"
+			],
+			[
+				"testd",
+				"src\\components\\common\\TestDateMenu.js"
+			],
+			[
+				"helpic",
+				"src\\components\\common\\HelpIcon.js"
+			],
+			[
+				"takingex",
+				"src\\components\\common\\TakingExamDecisionMenu.js"
+			],
+			[
+				"table-u",
+				"src\\assets\\style\\scss\\table-utils.scss"
+			],
+			[
+				"students-ta",
+				"src\\assets\\style\\scss\\students-table.scss"
+			],
+			[
+				"enrol",
+				"src\\constants\\EnrollmentConstants.js"
+			],
+			[
+				"confirmenrollm",
+				"src\\components\\students\\student\\ConfirmEnrollmentModal.js"
+			],
+			[
+				"othera",
+				"src\\components\\students\\ssdmaterials\\OtherAccommodations.js"
+			],
+			[
+				"extratime",
+				"src\\components\\students\\ssdmaterials\\ExtraTime.js"
+			],
+			[
+				"readerma",
+				"src\\components\\students\\ssdmaterials\\ReaderMaterials.js"
+			],
+			[
+				"selectssdmaterialstobeorderedform",
+				"src\\containers\\forms\\SelectSSDMaterialsToBeOrderedForm.js"
+			],
+			[
+				"orderssdmaterialsmodal",
+				"src\\containers\\modals\\OrderSSDMaterialsModal.js"
+			],
+			[
+				"studentdetailsssd",
+				"src\\components\\students\\coordinator\\StudentDetailsSSDMaterials.js"
+			],
+			[
+				"dropdown",
+				"src\\components\\common\\Dropdown.js"
+			],
+			[
+				"dropdownpor",
+				"src\\components\\common\\DropdownPortal.js"
+			],
+			[
+				"sectionco",
+				"src\\constants\\SectionConstants.js"
+			],
+			[
+				"updateta",
+				"src\\components\\orders\\coordinator\\UpdateTable.js"
+			],
+			[
+				"sectioncon",
+				"src\\constants\\SectionConstants.js"
+			],
+			[
+				"student-deta",
+				"src\\assets\\style\\scss\\student-details.scss"
+			],
+			[
+				"selectsect",
+				"src\\containers\\forms\\SelectSectionToMoveToForm.js"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"eslin",
+				".eslintrc"
+			],
+			[
+				".eslin",
+				".eslintrc"
+			],
+			[
+				"drop",
+				"src\\containers\\modals\\DropStudentModal.js"
+			],
+			[
+				"studentdetailssect",
+				"src\\components\\students\\coordinator\\StudentDetailsSection.js"
+			],
+			[
+				"testdate",
+				"src\\components\\common\\TestDateMenu.js"
+			],
+			[
+				"studentdetailsfee",
+				"src\\components\\students\\coordinator\\StudentDetailsFeesStatus.js"
+			],
+			[
+				"studentschoo",
+				"src\\components\\students\\coordinator\\StudentSchoolInformation.js"
+			],
+			[
+				"global",
+				"src\\assets\\style\\css\\global.css"
+			],
+			[
+				"student-dash",
+				"src\\assets\\style\\scss\\student-dashboard.scss"
+			],
+			[
+				"app",
+				"src\\reducers\\app.js"
+			],
+			[
+				"modal",
+				"src\\components\\common\\Modal.js"
+			],
+			[
+				"student",
+				"src\\constants\\StudentConstants.js"
+			],
+			[
+				"courses-tab",
+				"src\\assets\\style\\scss\\courses-table.scss"
+			],
+			[
+				"text",
+				"src\\components\\common\\forms\\Text.js"
+			],
+			[
+				"findteach",
+				"src\\containers\\forms\\FindTeacherForm.js"
+			],
+			[
+				"mess",
+				"src\\constants\\MessageConstants.js"
+			],
+			[
+				"createedi",
+				"src\\containers\\forms\\CreateAndEditSectionForm.js"
+			],
+			[
+				"students-tabl",
+				"src\\assets\\style\\scss\\students-table.scss"
+			],
+			[
+				"feestatu",
+				"src\\components\\common\\FeesStatusMenu.js"
+			],
+			[
+				"takingexam",
+				"src\\components\\common\\TakingExamDecisionMenu.js"
+			],
+			[
+				"normali",
+				"src\\utils\\normalize.js"
+			],
+			[
+				"auth",
+				"src\\utils\\authWrappers.js"
+			],
+			[
+				"",
+				"src\\constants\\StudentConstants.js"
+			],
+			[
+				"studentdetails",
+				"src\\components\\students\\coordinator\\StudentDetailsTestDate.js"
+			],
+			[
+				"studentdetailsform",
+				"src\\containers\\forms\\StudentDetailsForm.js"
+			],
+			[
+				"route",
+				"src\\containers\\routes\\index.js"
+			],
+			[
+				"ordercons",
+				"src\\constants\\OrderConstants.js"
+			],
+			[
+				"coursesectionselector",
+				"src\\components\\section\\teacher\\CourseSectionSelector.js"
+			],
+			[
+				"eslint",
+				".eslintrc"
+			],
+			[
+				"common",
+				"src\\utils\\common.js"
+			],
+			[
+				"studentdet",
+				"src\\components\\students\\coordinator\\StudentDetailsSection.js"
+			],
+			[
+				"webp",
+				"webpack.config.js"
+			],
+			[
+				"babel",
+				".babelrc"
+			],
+			[
+				"packag",
+				"package.json"
+			],
+			[
+				"bab",
+				".babelrc"
+			],
+			[
+				"studentlabelsort",
+				"src\\containers\\forms\\StudentLabelSortByForm.js"
+			],
+			[
+				"user",
+				"src\\actions\\user.js"
+			],
+			[
+				"settingsexam",
+				"src\\reducers\\settingsExamDecisions.js"
+			],
+			[
+				"chang",
+				"src\\components\\common\\ChangesSavedNotification.js"
+			],
+			[
+				"babe",
+				".babelrc"
+			],
+			[
+				"wepbac",
+				"webpack.config.js"
+			],
+			[
+				"valid",
+				"src\\components\\common\\forms\\Validations.js"
+			],
+			[
+				"settingsp",
+				"src\\containers\\pages\\SettingsPage.js"
+			],
+			[
+				"selectscho",
+				"src\\components\\navigation\\SelectSchool.js"
+			],
+			[
+				"accessm",
+				"src\\components\\settings\\accessmanagement\\AccessManagementPanel.js"
+			],
+			[
+				"navcon",
+				"src\\constants\\NavConstants.js"
+			],
+			[
+				"routes",
+				"src\\containers\\routes\\index.js"
+			],
+			[
+				"coursecons",
+				"src\\constants\\CourseConstants.js"
+			],
+			[
+				"selectlate",
+				"src\\components\\students\\SelectLateReasons.js"
+			],
+			[
+				"updateordermodal",
+				"src\\containers\\modals\\UpdateOrderModal.js"
+			],
+			[
+				"updatechan",
+				"src\\components\\orders\\coordinator\\UpdateChangeOrderModalText.js"
+			],
+			[
+				"select",
+				"src\\components\\common\\forms\\Select.js"
+			],
+			[
+				"date.js",
+				"src\\components\\common\\forms\\Date.js"
+			],
+			[
+				"access",
+				"src\\components\\settings\\accessmanagement\\AccessManagementPanel.js"
+			],
+			[
+				"studentco",
+				"src\\constants\\StudentConstants.js"
+			],
+			[
+				"examdecisiond",
+				"src\\components\\common\\ExamDecisionDeadlineNotice.js"
+			],
+			[
+				"confirmdropstud",
+				"src\\containers\\modals\\ConfirmDropStudentModal.js"
+			],
+			[
+				"sort",
+				"src\\utils\\sort.js"
+			],
+			[
+				"filter",
+				"src\\reducers\\filters.js"
+			],
+			[
+				"settin",
+				"src\\constants\\SettingsConstants.js"
+			],
+			[
+				"teach",
+				"src\\actions\\teacher.js"
+			],
+			[
+				"nav",
+				"src\\constants\\NavConstants.js"
+			],
+			[
+				"teachercon",
+				"src\\constants\\TeacherConstants.js"
+			],
+			[
+				"coordinatorcoursefil",
+				"src\\components\\filters\\CoordinatorCourseFilters.js"
+			],
+			[
+				"examdecisionspan",
+				"src\\components\\settings\\examdecisions\\ExamDecisionsPanel.js"
+			],
+			[
+				"settingscon",
+				"src\\constants\\SettingsConstants.js"
+			],
+			[
+				"section",
+				"src\\reducers\\section.js"
+			],
+			[
+				"norma",
+				"src\\utils\\normalize.js"
+			],
+			[
+				"examde",
+				"src\\components\\settings\\examdecisions\\ExamDecisionsPanel.js"
+			],
+			[
+				"date",
+				"src\\components\\common\\forms\\Date.js"
+			],
+			[
+				"vali",
+				"src\\components\\common\\forms\\Validations.js"
+			],
+			[
+				"loader",
+				"src\\components\\common\\Loader.js"
+			],
+			[
+				"error",
+				"src\\components\\common\\Error.js"
+			],
+			[
+				"examdecisionsform",
+				"src\\containers\\forms\\ExamDecisionsForm.js"
+			],
+			[
+				"exam",
+				"src\\components\\status\\common\\ExamDecisions.js"
+			],
+			[
+				"teacher",
+				"src\\reducers\\teacher.js"
+			],
+			[
+				"pipe",
+				"bitbucket-pipelines.yml"
+			],
+			[
+				"web",
+				"webpack.config.production.js"
+			],
+			[
+				"coursesele",
+				"src\\components\\section\\createandedit\\CourseSelector.js"
+			],
+			[
+				"createandedit",
+				"src\\containers\\forms\\CreateAndEditSectionForm.js"
+			],
+			[
+				"terms",
+				"src\\containers\\pages\\TermsAndConditionsPage.js"
+			],
+			[
+				"normalize",
+				"src\\utils\\normalize.js"
+			],
+			[
+				"joincode",
+				"src\\components\\section\\common\\JoinCode.js"
+			],
+			[
+				"index",
+				"src\\index.js"
+			],
+			[
+				"axios",
+				"src\\utils\\axios.js"
+			],
+			[
+				"inde",
+				"src\\index.js"
+			],
+			[
+				"analytics",
+				"src\\utils\\analytics.js"
+			],
+			[
+				"ssdmaterialsmodal",
+				"src\\assets\\style\\scss\\ssd-materials-modal.scss"
+			],
+			[
+				"examdecisions",
+				"src\\components\\settings\\examdecisions\\ExamDecisionsPanel.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 373.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
