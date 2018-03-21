@@ -4,7 +4,7 @@ const GraphQL = require('graphql');
 const {
   GraphQLList,
   GraphQLString,
-  GraphQLNonNull,
+  GraphQLNonNull
 } = GraphQL;
 
 // import the Post type we created
